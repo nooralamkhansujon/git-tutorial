@@ -1,3 +1,5 @@
 wow? How are you?
 
-We have completed first commit it's amazing.
+We have learned a lot about git.. 
+
+Now we can start uisng  git and git hub...
