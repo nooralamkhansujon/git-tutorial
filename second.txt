@@ -1,3 +1,4 @@
 we are learning git for working together in team memeber
 
 this line also will be commits
+Now we can check commits and 
