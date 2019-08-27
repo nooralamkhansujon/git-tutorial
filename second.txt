@@ -1,5 +1,0 @@
-we are learning git for working together in team memeber
-
-
-
-Now we are going to learn about diff command
